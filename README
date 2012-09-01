@@ -5,3 +5,5 @@ http://arduino.cc/playground/Code/Time
 
 TM1638/1640
 http://code.google.com/p/tm1638-library/
+
+Also, remember to edit the API and VerifCode strings so that it actually works.
