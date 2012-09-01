@@ -1,0 +1,7 @@
+Required Libraries (other than default):
+
+Time
+http://arduino.cc/playground/Code/Time
+
+TM1638/1640
+http://code.google.com/p/tm1638-library/
